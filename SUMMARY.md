@@ -1,8 +1,8 @@
-# Table of contents
+# Summary
 
 * [What is MyProduct?](README.md)
 
-## Guides
+## Guide
 
 * [Creating your first project](guides/creating-your-first-project.md)
 * [Creating your first task](guides/creating-your-first-task.md)
@@ -27,3 +27,4 @@
 ## Extras
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+
