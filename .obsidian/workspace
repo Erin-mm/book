@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "0a4aa81bfc978221",
+    "type": "split",
+    "children": [
+      {
+        "id": "91527fc432e9099d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-02-23.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa2575cfe33b5d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0502c6a1d09b667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbc9174f9fb72f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15178b752d062922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "434ff0f42457777f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aae67f3951d6034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51702976256fe292",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-02-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "76df16c83ff83d91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "91527fc432e9099d",
+  "lastOpenFiles": [
+    "2022-02-23.md",
+    "2021-12-07.md",
+    "未命名.md"
+  ]
+}
